@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/whyred" remote="pixel-devices" name="device_xiaomi_whyred" revision="thirteen" />
+  <project path="device/xiaomi/sdm660-common" remote="github" name="PixelExperience-Devices/device_xiaomi_sdm660-common" revision="thirteen" />
+  <project path="vendor/xiaomi/whyred" remote="pixel-devices-blobs" name="vendor_xiaomi_whyred" revision="thirteen" />
+  <project path="vendor/xiaomi/sdm660-common" remote="pixel-devices-blobs" name="vendor_xiaomi_sdm660-common" revision="thirteen" />
+  <project path="hardware/xiaomi" remote="pixel" name="hardware_xiaomi" revision="thirteen" />
+  <project path="kernel/xiaomi/sdm660" remote="github" name="PixelExperience-Devices/kernel_xiaomi_sdm660" revision="thirteen" />
+</manifest>
