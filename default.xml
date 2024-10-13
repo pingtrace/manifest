@@ -1214,6 +1214,8 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
   <!-- END open-source projects -->
 
- <include name="snippets/xiaomi.xml" />
-
+  <include name="snippets/xiaomi.xml" />
+  <include name="snippets/caf.xml" />
+  <include name="snippets/pixel.xmk" />
+  <include name="snippets/extras.xml" />
 </manifest>
