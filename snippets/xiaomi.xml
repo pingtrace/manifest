@@ -7,7 +7,7 @@
   <project path="device/xiaomi/whyred" remote="github" name="device_xiaomi_whyred" revision="thirteen" />
   <project path="device/xiaomi/sdm660-common" remote="github" name="device_xiaomi_sdm660-common" revision="thirteen" />
   <project path="vendor/xiaomi/whyred" remote="github" name="vendor_xiaomi_whyred" revision="thirteen" />
-  <project path="vendor/xiaomi/sdm660-common" remote="pixel-devices-blobs" name="vendor_xiaomi_sdm660-common" revision="thirteen" />
+  <project path="vendor/xiaomi/sdm660-common" remote="github" name="vendor_xiaomi_sdm660-common" revision="thirteen" />
   <project path="hardware/xiaomi" remote="github" name="hardware_xiaomi" revision="thirteen" />
   <project path="kernel/xiaomi/sdm660" remote="github" name="kernel_xiaomi_sdm660" revision="thirteen" />
 </manifest>
