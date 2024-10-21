@@ -1214,6 +1214,9 @@
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" />
   <!-- END open-source projects -->
 
+  <!-- Remove unused AOSP repos -->
+  <include name="snippets/remove.xml" />
+
   <include name="snippets/xiaomi.xml" />
   <include name="snippets/caf.xml" />
   <include name="snippets/pixel.xml" />
