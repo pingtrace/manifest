@@ -14,7 +14,7 @@
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
   <!-- General vendor_gms -->
-  <project path="vendor/gms" name="vendor_gms" remote="github" clone-depth="1" />
+  <project path="vendor/gms" name="vendor_gms" remote="gitlab" clone-depth="1" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel" />
 

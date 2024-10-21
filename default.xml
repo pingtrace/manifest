@@ -12,6 +12,10 @@
     fetch="https://github.com/noh4ppy"
     revision="thirteen" />
 
+  <remote name="gitlab"
+    fetch="https://gitlab.com/n0h4ppy"
+    revision="thirteen" />
+
   <default revision="refs/tags/android-13.0.0_r75"
     remote="aosp"
     sync-j="8"
