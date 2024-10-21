@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github"
-    fetch="https://github.com/noh4ppy"
-    revision="thirteen" />
-
   <project path="device/xiaomi/whyred" remote="github" name="device_xiaomi_whyred" revision="thirteen" />
   <project path="device/xiaomi/sdm660-common" remote="github" name="device_xiaomi_sdm660-common" revision="thirteen" />
   <project path="vendor/xiaomi/whyred" remote="github" name="vendor_xiaomi_whyred" revision="thirteen" />
