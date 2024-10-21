@@ -1216,6 +1216,6 @@
 
   <include name="snippets/xiaomi.xml" />
   <include name="snippets/caf.xml" />
-  <include name="snippets/pixel.xmk" />
+  <include name="snippets/pixel.xml" />
   <include name="snippets/extras.xml" />
 </manifest>
