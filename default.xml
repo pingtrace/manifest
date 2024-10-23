@@ -16,6 +16,10 @@
     fetch="https://gitlab.com/n0h4ppy"
     revision="thirteen" />
 
+  <remote name="pixelos-aosp"
+    fetch="https://gitlab.com/pixelos-aosp"
+    revision="thirteen" />
+
   <default revision="refs/tags/android-13.0.0_r75"
     remote="aosp"
     sync-j="8"
@@ -1724,8 +1728,9 @@
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
 
-  <include name="snippets/xiaomi.xml" />
   <include name="snippets/caf.xml" />
   <include name="snippets/pixel.xml" />
   <include name="snippets/extras.xml" />
+
+  <include name="snippets/xiaomi.xml" />
 </manifest>
